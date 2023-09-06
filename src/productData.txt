@@ -1,0 +1,2 @@
+000001 , Ipad , A tablet made by apple , 100.89
+000002 , Pencil , a small piece of hexagonal wood that surrounds a stick of graphite , 0.09

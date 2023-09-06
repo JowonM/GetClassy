@@ -1,0 +1,3 @@
+Mr. , 000001 , Jowon , Briggs , 2001
+Duke , 000002 , Jojo , Bizzare , 1595
+
